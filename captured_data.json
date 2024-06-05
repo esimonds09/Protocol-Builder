@@ -1,0 +1,56 @@
+{
+    "project": "Akita",
+    "project_name_id": 1,
+    "project_scheme": 1,
+    "proj_id": "Test",
+    "proj_file_option": "",
+    "proj_type": "Fermentation",
+    "source": 4,
+    "replicates": "n + 2",
+    "pd": 0,
+    "pd_vols": {
+        "pd_1_vol": 0,
+        "pd_2_vol": 0,
+        "pd_3_vol": 0,
+        "pd_4_vol": 0
+    },
+    "pd_spikes": {
+        "pd_1_spike": 0,
+        "pd_2_spike": 0,
+        "pd_3_spike": 0,
+        "pd_4_spike": 0
+    },
+    "dbi_vol": 200,
+    "dbii_vol": 90,
+    "dil_vols": {
+        "dil_vol_1": 5,
+        "dil_vol_2": 5,
+        "dil_vol_3": 5,
+        "dil_vol_4": 5
+    },
+    "points": 4,
+    "cell_resus": 200,
+    "standard_stock": {
+        "standard_stock_conc": 0.0,
+        "standard_stock_mw": 0
+    },
+    "standard_concs": {
+        "standard_conc_1": 0.0,
+        "standard_conc_2": 0.0,
+        "standard_conc_3": 0.0,
+        "standard_conc_4": 0.0,
+        "standard_conc_5": 0.0,
+        "standard_conc_6": 0.0
+    },
+    "standard_folds": {
+        "standard_fold_1": 0.0,
+        "standard_fold_2": 0.0,
+        "standard_fold_3": 0.0,
+        "standard_fold_4": 0.0,
+        "standard_fold_5": 0.0
+    },
+    "standard_wells": 2,
+    "standard_plates": 0,
+    "standard_vol": 0,
+    "run_notes": ""
+}
